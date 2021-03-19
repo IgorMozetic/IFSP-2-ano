@@ -1,0 +1,45 @@
+Classe Filmes.
+
+	Atributos: Título;
+		   Ano de lançamento;
+                   Elenco;
+		   Faixa etária;	
+		   Gênero.
+
+	Métodos: Exibir();
+		 Pausar();
+		 Avaliar();
+		 Gravação();
+		 Lançamento().	
+
+------------------------------------------------------------	 
+
+Classe Livros.
+
+	Atributos: Título;
+		   Sumário;
+		   Autora;
+		   Gênero;
+		   Ano de lançamento.
+
+	Métodos: Ler ();
+ 		 Avaliação();
+		 Lucro();
+		 Ensinar();
+		 Edição().		
+
+------------------------------------------------------------
+
+Classe Professor.
+
+	Atributos: Nome;
+		   Formação;
+		   Disciplina;
+		   Métodos;
+		   Organização. 
+	
+	Métodos: Avaliar();
+	 	 Ajudar();
+	         Ensinar();
+		 Conversar();
+		 Trabalhar().
